@@ -1,0 +1,8 @@
+0 bosque de noruega
+1 british shorthair
+2 Devon Rex
+3 Maine Coon
+4 munchkin
+5 gato oriental
+6 gato egipcio
+7 Gato Azul Ruso
